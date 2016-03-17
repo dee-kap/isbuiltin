@@ -21,6 +21,12 @@ isBuiltIn('woosh');
 
 ```
 
+## Run Tests
+
+```
+npm install && npm test
+```
+
 ## License
 
 MIT © [Deepak Kapoor](http://kapoor.io)
