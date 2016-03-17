@@ -18,5 +18,8 @@
   "homepage": "https://github.com/deepak-kapoor/is-builtin#readme",
   "dependencies": {
     "builtin-modules": "^1.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
   }
 }
