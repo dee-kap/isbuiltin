@@ -1,21 +1,24 @@
 {
   "name": "isbuiltin",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Find if a module is a built-in node module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/deepak-kapoor/is-builtin.git"
   },
-  "author": "",
+  "author": {
+    "name": "Deepak Kapoor",
+    "email": "kapoordeepak@gmail.com",
+    "url": "http://kapoor.io"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/deepak-kapoor/is-builtin/issues"
   },
-  "homepage": "https://github.com/deepak-kapoor/is-builtin#readme",
   "dependencies": {
     "builtin-modules": "^1.1.1"
   },
