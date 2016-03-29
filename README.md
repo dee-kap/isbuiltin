@@ -1,6 +1,6 @@
 # isbuiltin 
 
-Tells you if the string you pass in is a built-in node module
+Check if the module is a built-in node module.
 
 ## Install
 
